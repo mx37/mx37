@@ -50,10 +50,3 @@ Privacy-first software, open-source development, self-hosted solutions, backend 
   ]
 }
 ```
-
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
-
-process.exit(0); // Until next time 👋
-```
