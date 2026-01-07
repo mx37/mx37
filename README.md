@@ -1,16 +1,59 @@
-## Hi there 👋
+# Max
 
-<!--
-**mx37/mx37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+const profile = {
+  name: "Max",
+  bio: "Full-stack developer building privacy-first, open-source web applications.",
+  interests: "Privacy-first software,open-source development,self-hosted solutions,backend architecture,APIs & automation",
+}
+```
 
-Here are some ideas to get you started:
+## 👀 I'm interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Privacy-first software, open-source development, self-hosted solutions, backend architecture, APIs & automation
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "React",
+    "Next.js",
+    "Vue.js",
+    "Svelte",
+    "Material UI",
+    "Bootstrap",
+    "Tailwind",
+    "CSS3",
+    "HTML5"
+  ],
+  "backend": [
+    "Node.js",
+    "Express",
+    "Redis",
+    "MySQL",
+    "PostgreSQL",
+    "SQLite"
+  ],
+  "devops": [
+    "Docker"
+  ],
+  "mobile": [
+    "React Native",
+    "Android"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "PHP",
+    "Go"
+  ]
+}
+```
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
